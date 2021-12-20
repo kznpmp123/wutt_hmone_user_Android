@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264830722631",
+    "project_id": "wutt-hmone",
+    "storage_bucket": "wutt-hmone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264830722631:android:b71ab4f6b11a16e1534762",
+        "android_client_info": {
+          "package_name": "com.kzn.wutthmone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264830722631-jfjpnl0414idmt28kku5kmojbgg5i6kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.wutthmone",
+            "certificate_hash": "ce27befd5fbc3315cdccb70a115e8964f095487f"
+          }
+        },
+        {
+          "client_id": "264830722631-04h788lut6ht43k22mosq34093hpmrvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGFsmLP_8s5kT4SWJ5WcN_4v9D7V9kpMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264830722631-04h788lut6ht43k22mosq34093hpmrvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
